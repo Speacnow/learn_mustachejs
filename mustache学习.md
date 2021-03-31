@@ -6,9 +6,7 @@ mustache.js github地址：https://github.com/janl/mustache.js
 
 学习资料来源：http://www.atguigu.com/ ，https://www.bilibili.com/video/BV1iX4y1K72v
 
-github来源  https://github.com/Speacnow/learn_mustachejs
-
-
+github代码：  https://github.com/Speacnow/learn_mustachejs
 
 例：利用data数据将模板字符串解析为html字符串
 
